@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Shubham Verma
 
+- 🔭 I’m currently working on Codeigniter, Laravel and ReactJS
+- 🌱 I’m currently learning <strong>New Technologies</strong>
 <!--
 **shubhamverma73/shubhamverma73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
