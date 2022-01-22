@@ -5,8 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=shubhamverma73&label=PROFILE+VIEWS)
 
-### Dev Community
-
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
 
