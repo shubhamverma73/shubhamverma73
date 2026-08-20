@@ -5,22 +5,23 @@ Backend Developer • AI Enthusiast • Open Source Learner
 </h3>
 
 <p align="center">
-I love building scalable backend applications, exploring Artificial Intelligence, and learning how modern LLMs actually work.
+I love building scalable backend applications, exploring Artificial Intelligence,
+and learning how modern LLMs actually work.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shubhamverma73&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhamverma73&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Backend Developer
 - 🤖 Currently learning **Artificial Intelligence & Machine Learning**
 - 🌱 Exploring **LLMs, Deep Learning, NLP & TensorFlow**
-- ⚡ Love solving real-world problems with code
-- 📚 Always learning something new
+- ⚡ Passionate about Backend Development & AI
+- 📚 Always learning new technologies
 
 ---
 
@@ -62,9 +63,9 @@ I love building scalable backend applications, exploring Artificial Intelligence
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamverma73&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamverma73&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamverma73&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamverma73&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -74,7 +75,7 @@ I love building scalable backend applications, exploring Artificial Intelligence
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shubhamverma73&theme=github-dark&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=shubhamverma73&theme=tokyonight"/>
 
 </p>
 
@@ -84,7 +85,7 @@ I love building scalable backend applications, exploring Artificial Intelligence
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamverma73&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamverma73&theme=tokyo-night"/>
 
 </p>
 
@@ -98,22 +99,21 @@ I love building scalable backend applications, exploring Artificial Intelligence
 - Neural Networks
 - Large Language Models (LLMs)
 - TensorFlow & Keras
-- NLP
+- Natural Language Processing (NLP)
 - AI Agents
 
 ---
 
 # 📌 Featured Projects
 
-> ⭐ Pin your best repositories on your GitHub profile.
-
-Some ideas:
+⭐ Pin your best repositories here:
 
 - 🤖 AI Learning Projects
-- 📦 Backend APIs
-- 💬 NLP Projects
 - 🧠 TensorFlow Experiments
+- 📦 Backend APIs
 - 🌐 Node.js Applications
+- 💬 NLP Projects
+- 🚀 Open Source Projects
 
 ---
 
@@ -133,6 +133,6 @@ Some ideas:
 
 ---
 
-## 💡 Quote
+# 💬 Quote
 
-> *"Consistency beats motivation. Keep building, keep learning."*
+> **"Consistency beats motivation. Keep building. Keep learning."**
