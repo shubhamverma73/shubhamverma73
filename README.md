@@ -1,35 +1,138 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shubham Verma
+<h1 align="center">Hi 👋, I'm Shubham Verma</h1>
 
-- 🔭 I’m currently working on <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-- 🌱 I’m currently learning <strong>New Technologies</strong>
+<h3 align="center">
+Backend Developer • AI Enthusiast • Open Source Learner
+</h3>
 
-![](https://komarev.com/ghpvc/?username=shubhamverma73&label=PROFILE+VIEWS)
+<p align="center">
+I love building scalable backend applications, exploring Artificial Intelligence, and learning how modern LLMs actually work.
+</p>
 
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shubhamverma73&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+## 🚀 About Me
+
+- 💻 Backend Developer
+- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
+- 🌱 Exploring **LLMs, Deep Learning, NLP & TensorFlow**
+- ⚡ Love solving real-world problems with code
+- 📚 Always learning something new
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamverma73&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamverma73&hide=TeX&layout=compact)
+# 💻 Tech Stack
 
-[twitter]: https://twitter.com/shubham150591
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-verma-05b58b3a/
-<!--
-**shubhamverma73/shubhamverma73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
 
-Here are some ideas to get you started:
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,express" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamverma73&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamverma73&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shubhamverma73&theme=github-dark&hide_border=false"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamverma73&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Large Language Models (LLMs)
+- TensorFlow & Keras
+- NLP
+- AI Agents
+
+---
+
+# 📌 Featured Projects
+
+> ⭐ Pin your best repositories on your GitHub profile.
+
+Some ideas:
+
+- 🤖 AI Learning Projects
+- 📦 Backend APIs
+- 💬 NLP Projects
+- 🧠 TensorFlow Experiments
+- 🌐 Node.js Applications
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://github.com/shubhamverma73">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-verma-05b58b3a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Consistency beats motivation. Keep building, keep learning."*
